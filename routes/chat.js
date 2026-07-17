@@ -1,38 +1,33 @@
 const express = require("express");
 const router = express.Router();
 
-const findBestAnswer = require("../nlp/similarity");
+const faq = require("../data/faq.json");
+
 
 router.post("/", (req, res) => {
 
-    try {
+    const userMessage = req.body.message.toLowerCase();
 
-        const { message } = req.body;
+    let answer = "Sorry, I couldn't find an answer for your question. Please contact student support.";
 
-        if (!message || message.trim() === "") {
 
-            return res.status(400).json({
-                found: false,
-                answer: "Please enter a question."
-            });
+    const result = faq.find(item =>
+        userMessage.includes(
+            item.question.toLowerCase().replace("?", "")
+        )
+    );
 
-        }
 
-        const result = findBestAnswer(message);
-
-        res.json(result);
-
-    } catch (error) {
-
-        console.error(error);
-
-        res.status(500).json({
-            found: false,
-            answer: "Internal Server Error."
-        });
-
+    if(result){
+        answer = result.answer;
     }
 
+
+    res.json({
+        answer: answer
+    });
+
 });
+
 
 module.exports = router;

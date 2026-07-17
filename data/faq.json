@@ -1,82 +1,198 @@
 [
   {
-    "question": "What are your working hours?",
-    "answer": "Our working hours are from 9:00 AM to 6:00 PM, Monday to Friday."
+    "question": "What courses do you offer?",
+    "answer": "We offer various undergraduate, postgraduate, and professional courses based on student interests and career goals."
   },
   {
-    "question": "Where is your office located?",
-    "answer": "Our office is located in Hyderabad, Telangana."
+    "question": "How can I apply for admission?",
+    "answer": "You can apply for admission by filling out the online application form and submitting the required documents."
   },
   {
-    "question": "How can I contact customer support?",
-    "answer": "You can contact customer support by email at support@example.com or call +91-9876543210."
+    "question": "What are the admission requirements?",
+    "answer": "Admission requirements include academic qualifications, entrance exam scores, and required documents."
   },
   {
-    "question": "Do you provide refunds?",
-    "answer": "Yes, refunds are available within 7 days according to our refund policy."
+    "question": "What is the eligibility criteria?",
+    "answer": "Eligibility criteria depend on the course. Students must meet the minimum academic requirements specified for each program."
   },
   {
-    "question": "What payment methods do you accept?",
-    "answer": "We accept UPI, credit cards, debit cards, net banking, and cash."
+    "question": "What documents are required for admission?",
+    "answer": "Required documents usually include marksheets, certificates, identity proof, photographs, and application forms."
   },
   {
-    "question": "Do you offer home delivery?",
-    "answer": "Yes, we provide home delivery within selected locations."
+    "question": "When does admission start?",
+    "answer": "Admission usually begins before the start of the academic year. Check the official admission portal for exact dates."
   },
   {
-    "question": "Can I track my order?",
-    "answer": "Yes, you can track your order using the tracking link sent after confirmation."
+    "question": "What is the fee structure?",
+    "answer": "The fee structure varies depending on the course and duration. Please contact the admission department for details."
   },
   {
-    "question": "How do I cancel my order?",
-    "answer": "You can cancel your order before it is shipped by contacting customer support."
+    "question": "Do you provide scholarships?",
+    "answer": "Yes, scholarships are available for eligible students based on academic performance and financial background."
   },
   {
-    "question": "Do you have weekend support?",
-    "answer": "Yes, limited customer support is available on weekends."
+    "question": "How can I apply for a scholarship?",
+    "answer": "Students can apply for scholarships by submitting the scholarship application form with required documents."
   },
   {
-    "question": "How can I reset my password?",
-    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+    "question": "What payment methods are available for fees?",
+    "answer": "Fees can be paid through online banking, UPI, debit cards, credit cards, or other available payment methods."
   },
   {
-    "question": "Is online payment secure?",
-    "answer": "Yes, all online transactions are protected using secure encryption."
+    "question": "Can I pay fees in installments?",
+    "answer": "Yes, installment options may be available depending on the institution's policies."
   },
   {
-    "question": "Can I update my profile information?",
-    "answer": "Yes, you can update your profile information from your account settings."
+    "question": "What are the class timings?",
+    "answer": "Class timings vary depending on the course and academic schedule."
   },
   {
-    "question": "How long does shipping take?",
-    "answer": "Shipping usually takes 3 to 7 business days."
+    "question": "Where are classes conducted?",
+    "answer": "Classes are conducted in classrooms, laboratories, and online platforms depending on the course requirements."
   },
   {
-    "question": "Do you offer international shipping?",
-    "answer": "Currently, we only deliver within India."
+    "question": "Do you provide online classes?",
+    "answer": "Yes, online classes are provided for selected courses and learning programs."
   },
   {
-    "question": "How do I create an account?",
-    "answer": "Click on the Sign Up button and fill in your details to create an account."
+    "question": "Is attendance compulsory?",
+    "answer": "Yes, students are required to maintain minimum attendance according to academic regulations."
   },
   {
-    "question": "Can I change my delivery address?",
-    "answer": "Yes, you can change the delivery address before the order is dispatched."
+    "question": "How can I check my attendance?",
+    "answer": "Students can check attendance through the student portal or by contacting the academic department."
   },
   {
-    "question": "What should I do if my order is delayed?",
-    "answer": "Please contact customer support if your order is delayed beyond the estimated delivery date."
+    "question": "How can I download study materials?",
+    "answer": "Study materials can be downloaded from the student learning portal."
   },
   {
-    "question": "Do you provide invoices?",
-    "answer": "Yes, invoices are sent to your registered email after successful payment."
+    "question": "Do you provide textbooks?",
+    "answer": "Students are provided recommended textbooks and learning resources based on their courses."
   },
   {
-    "question": "Can I return a damaged product?",
-    "answer": "Yes, damaged products can be returned within 7 days after delivery."
+    "question": "Are recorded lectures available?",
+    "answer": "Yes, recorded lectures are available for selected classes."
   },
   {
-    "question": "How do I subscribe to newsletters?",
-    "answer": "Enter your email address in the newsletter subscription section on our website."
+    "question": "How can I contact faculty members?",
+    "answer": "Students can contact faculty members through official email or student communication platforms."
+  },
+  {
+    "question": "How can I prepare for exams?",
+    "answer": "Students should follow the syllabus, attend classes regularly, practice previous papers, and revise regularly."
+  },
+  {
+    "question": "When are exams conducted?",
+    "answer": "Exams are conducted according to the academic calendar released by the institution."
+  },
+  {
+    "question": "How can I check my exam schedule?",
+    "answer": "Exam schedules are available on the student portal and official notice boards."
+  },
+  {
+    "question": "How can I download my hall ticket?",
+    "answer": "Students can download hall tickets from the examination portal before exams."
+  },
+  {
+    "question": "What happens if I miss an exam?",
+    "answer": "Students should contact the examination department for further guidance."
+  },
+  {
+    "question": "How are marks calculated?",
+    "answer": "Marks are calculated based on internal assessments, assignments, practicals, and final examinations."
+  },
+  {
+    "question": "How can I check my results?",
+    "answer": "Results can be checked through the official student portal."
+  },
+  {
+    "question": "Can I apply for revaluation?",
+    "answer": "Yes, students can apply for revaluation according to examination rules."
+  },
+  {
+    "question": "What is the grading system?",
+    "answer": "The grading system depends on marks obtained and follows institutional academic guidelines."
+  },
+  {
+    "question": "Do you provide internship opportunities?",
+    "answer": "Yes, internship opportunities are provided through industry collaborations and career programs."
+  },
+  {
+    "question": "How can I find internships?",
+    "answer": "Students can find internships through the career development cell and placement portal."
+  },
+  {
+    "question": "Do you provide placement support?",
+    "answer": "Yes, placement support is provided through training, career guidance, and recruitment drives."
+  },
+  {
+    "question": "Which companies visit for placements?",
+    "answer": "Companies from different industries visit based on student skills and job requirements."
+  },
+  {
+    "question": "Do you provide skill development programs?",
+    "answer": "Yes, skill development programs are available to improve technical and professional skills."
+  },
+  {
+    "question": "Are coding courses available?",
+    "answer": "Yes, coding and programming courses are available for interested students."
+  },
+  {
+    "question": "Do you provide career guidance?",
+    "answer": "Yes, career guidance is provided to help students choose suitable career paths."
+  },
+  {
+    "question": "Is hostel facility available?",
+    "answer": "Yes, hostel facilities are available for eligible students."
+  },
+  {
+    "question": "What facilities are available in hostel?",
+    "answer": "Hostels provide accommodation, food facilities, security, and basic amenities."
+  },
+  {
+    "question": "Is transportation available?",
+    "answer": "Yes, transportation facilities are available on selected routes."
+  },
+  {
+    "question": "Is library facility available?",
+    "answer": "Yes, students have access to library resources including books and digital materials."
+  },
+  {
+    "question": "Do you have computer labs?",
+    "answer": "Yes, computer labs with required software are available for students."
+  },
+  {
+    "question": "Are sports facilities available?",
+    "answer": "Yes, sports facilities are available for students interested in physical activities."
+  },
+  {
+    "question": "Are cultural events conducted?",
+    "answer": "Yes, cultural events and student activities are conducted regularly."
+  },
+  {
+    "question": "How can I register for events?",
+    "answer": "Students can register for events through the student portal or event coordinators."
+  },
+  {
+    "question": "How can I update my student profile?",
+    "answer": "Students can update their profile information through the student portal."
+  },
+  {
+    "question": "I forgot my student portal password. What should I do?",
+    "answer": "Use the forgot password option or contact student support for assistance."
+  },
+  {
+    "question": "How can I get my ID card?",
+    "answer": "Student ID cards are issued after successful admission and verification."
+  },
+  {
+    "question": "How can I request certificates?",
+    "answer": "Students can request certificates through the administration office."
+  },
+  {
+    "question": "How can I contact student support?",
+    "answer": "You can contact student support through official email or helpdesk."
   }
 ]
