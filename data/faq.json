@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What are your working hours?",
+    "answer": "Our working hours are from 9:00 AM to 6:00 PM, Monday to Friday."
+  },
+  {
+    "question": "Where is your office located?",
+    "answer": "Our office is located in Hyderabad, Telangana."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can contact customer support by email at support@example.com or call +91-9876543210."
+  },
+  {
+    "question": "Do you provide refunds?",
+    "answer": "Yes, refunds are available within 7 days according to our refund policy."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept UPI, credit cards, debit cards, net banking, and cash."
+  },
+  {
+    "question": "Do you offer home delivery?",
+    "answer": "Yes, we provide home delivery within selected locations."
+  },
+  {
+    "question": "Can I track my order?",
+    "answer": "Yes, you can track your order using the tracking link sent after confirmation."
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel your order before it is shipped by contacting customer support."
+  },
+  {
+    "question": "Do you have weekend support?",
+    "answer": "Yes, limited customer support is available on weekends."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "Is online payment secure?",
+    "answer": "Yes, all online transactions are protected using secure encryption."
+  },
+  {
+    "question": "Can I update my profile information?",
+    "answer": "Yes, you can update your profile information from your account settings."
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Shipping usually takes 3 to 7 business days."
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Currently, we only deliver within India."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click on the Sign Up button and fill in your details to create an account."
+  },
+  {
+    "question": "Can I change my delivery address?",
+    "answer": "Yes, you can change the delivery address before the order is dispatched."
+  },
+  {
+    "question": "What should I do if my order is delayed?",
+    "answer": "Please contact customer support if your order is delayed beyond the estimated delivery date."
+  },
+  {
+    "question": "Do you provide invoices?",
+    "answer": "Yes, invoices are sent to your registered email after successful payment."
+  },
+  {
+    "question": "Can I return a damaged product?",
+    "answer": "Yes, damaged products can be returned within 7 days after delivery."
+  },
+  {
+    "question": "How do I subscribe to newsletters?",
+    "answer": "Enter your email address in the newsletter subscription section on our website."
+  }
+]

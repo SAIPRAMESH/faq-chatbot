@@ -1,0 +1,24 @@
+{
+  "name": "faq-chatbot",
+  "version": "1.0.0",
+  "description": "FAQ Chatbot using NLP, TF-IDF, and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "chatbot",
+    "faq",
+    "nlp",
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compute-cosine-similarity": "^1.1.0",
+    "express": "^5.1.0",
+    "natural": "^8.1.0"
+  }
+}
