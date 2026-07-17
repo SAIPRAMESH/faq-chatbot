@@ -7,6 +7,13 @@ This project is a FAQ Chatbot developed using Node.js, Express.js, HTML, CSS, an
 The chatbot compares the user's question with a predefined FAQ dataset and returns the most relevant answer.
 
 ---
+## Live Demo
+
+🔗 https://faq-chatbot-4af7.onrender.com/
+
+## GitHub Repository
+
+🔗 https://github.com/SAIPRAMESH/faq-chatbot
 
 ## Features
 
