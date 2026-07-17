@@ -3,31 +3,42 @@ const router = express.Router();
 
 const faq = require("../data/faq.json");
 
-
 router.post("/", (req, res) => {
 
-    const userMessage = req.body.message.toLowerCase();
+    const message = req.body.message.toLowerCase();
 
-    let answer = "Sorry, I couldn't find an answer for your question. Please contact student support.";
+    let bestMatch = null;
+    let highestScore = 0;
 
+    for (const item of faq) {
 
-    const result = faq.find(item =>
-        userMessage.includes(
-            item.question.toLowerCase().replace("?", "")
-        )
-    );
+        let score = 0;
 
+        for (const keyword of item.keywords) {
 
-    if(result){
-        answer = result.answer;
+            if (message.includes(keyword.toLowerCase())) {
+                score++;
+            }
+
+        }
+
+        if (score > highestScore) {
+            highestScore = score;
+            bestMatch = item;
+        }
+
     }
 
-
-    res.json({
-        answer: answer
-    });
+    if (bestMatch) {
+        res.json({
+            answer: bestMatch.answer
+        });
+    } else {
+        res.json({
+            answer: "Sorry, I couldn't find an answer."
+        });
+    }
 
 });
-
 
 module.exports = router;

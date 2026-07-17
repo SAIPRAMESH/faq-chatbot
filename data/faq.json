@@ -1,198 +1,500 @@
-[
-  {
-    "question": "What courses do you offer?",
-    "answer": "We offer various undergraduate, postgraduate, and professional courses based on student interests and career goals."
-  },
-  {
-    "question": "How can I apply for admission?",
-    "answer": "You can apply for admission by filling out the online application form and submitting the required documents."
-  },
-  {
-    "question": "What are the admission requirements?",
-    "answer": "Admission requirements include academic qualifications, entrance exam scores, and required documents."
-  },
-  {
-    "question": "What is the eligibility criteria?",
-    "answer": "Eligibility criteria depend on the course. Students must meet the minimum academic requirements specified for each program."
-  },
-  {
-    "question": "What documents are required for admission?",
-    "answer": "Required documents usually include marksheets, certificates, identity proof, photographs, and application forms."
-  },
-  {
-    "question": "When does admission start?",
-    "answer": "Admission usually begins before the start of the academic year. Check the official admission portal for exact dates."
-  },
-  {
-    "question": "What is the fee structure?",
-    "answer": "The fee structure varies depending on the course and duration. Please contact the admission department for details."
-  },
-  {
-    "question": "Do you provide scholarships?",
-    "answer": "Yes, scholarships are available for eligible students based on academic performance and financial background."
-  },
-  {
-    "question": "How can I apply for a scholarship?",
-    "answer": "Students can apply for scholarships by submitting the scholarship application form with required documents."
-  },
-  {
-    "question": "What payment methods are available for fees?",
-    "answer": "Fees can be paid through online banking, UPI, debit cards, credit cards, or other available payment methods."
-  },
-  {
-    "question": "Can I pay fees in installments?",
-    "answer": "Yes, installment options may be available depending on the institution's policies."
-  },
-  {
-    "question": "What are the class timings?",
-    "answer": "Class timings vary depending on the course and academic schedule."
-  },
-  {
-    "question": "Where are classes conducted?",
-    "answer": "Classes are conducted in classrooms, laboratories, and online platforms depending on the course requirements."
-  },
-  {
-    "question": "Do you provide online classes?",
-    "answer": "Yes, online classes are provided for selected courses and learning programs."
-  },
-  {
-    "question": "Is attendance compulsory?",
-    "answer": "Yes, students are required to maintain minimum attendance according to academic regulations."
-  },
-  {
-    "question": "How can I check my attendance?",
-    "answer": "Students can check attendance through the student portal or by contacting the academic department."
-  },
-  {
-    "question": "How can I download study materials?",
-    "answer": "Study materials can be downloaded from the student learning portal."
-  },
-  {
-    "question": "Do you provide textbooks?",
-    "answer": "Students are provided recommended textbooks and learning resources based on their courses."
-  },
-  {
-    "question": "Are recorded lectures available?",
-    "answer": "Yes, recorded lectures are available for selected classes."
-  },
-  {
-    "question": "How can I contact faculty members?",
-    "answer": "Students can contact faculty members through official email or student communication platforms."
-  },
-  {
-    "question": "How can I prepare for exams?",
-    "answer": "Students should follow the syllabus, attend classes regularly, practice previous papers, and revise regularly."
-  },
-  {
-    "question": "When are exams conducted?",
-    "answer": "Exams are conducted according to the academic calendar released by the institution."
-  },
-  {
-    "question": "How can I check my exam schedule?",
-    "answer": "Exam schedules are available on the student portal and official notice boards."
-  },
-  {
-    "question": "How can I download my hall ticket?",
-    "answer": "Students can download hall tickets from the examination portal before exams."
-  },
-  {
-    "question": "What happens if I miss an exam?",
-    "answer": "Students should contact the examination department for further guidance."
-  },
-  {
-    "question": "How are marks calculated?",
-    "answer": "Marks are calculated based on internal assessments, assignments, practicals, and final examinations."
-  },
-  {
-    "question": "How can I check my results?",
-    "answer": "Results can be checked through the official student portal."
-  },
-  {
-    "question": "Can I apply for revaluation?",
-    "answer": "Yes, students can apply for revaluation according to examination rules."
-  },
-  {
-    "question": "What is the grading system?",
-    "answer": "The grading system depends on marks obtained and follows institutional academic guidelines."
-  },
-  {
-    "question": "Do you provide internship opportunities?",
-    "answer": "Yes, internship opportunities are provided through industry collaborations and career programs."
-  },
-  {
-    "question": "How can I find internships?",
-    "answer": "Students can find internships through the career development cell and placement portal."
-  },
-  {
-    "question": "Do you provide placement support?",
-    "answer": "Yes, placement support is provided through training, career guidance, and recruitment drives."
-  },
-  {
-    "question": "Which companies visit for placements?",
-    "answer": "Companies from different industries visit based on student skills and job requirements."
-  },
-  {
-    "question": "Do you provide skill development programs?",
-    "answer": "Yes, skill development programs are available to improve technical and professional skills."
-  },
-  {
-    "question": "Are coding courses available?",
-    "answer": "Yes, coding and programming courses are available for interested students."
-  },
-  {
-    "question": "Do you provide career guidance?",
-    "answer": "Yes, career guidance is provided to help students choose suitable career paths."
-  },
-  {
-    "question": "Is hostel facility available?",
-    "answer": "Yes, hostel facilities are available for eligible students."
-  },
-  {
-    "question": "What facilities are available in hostel?",
-    "answer": "Hostels provide accommodation, food facilities, security, and basic amenities."
-  },
-  {
-    "question": "Is transportation available?",
-    "answer": "Yes, transportation facilities are available on selected routes."
-  },
-  {
-    "question": "Is library facility available?",
-    "answer": "Yes, students have access to library resources including books and digital materials."
-  },
-  {
-    "question": "Do you have computer labs?",
-    "answer": "Yes, computer labs with required software are available for students."
-  },
-  {
-    "question": "Are sports facilities available?",
-    "answer": "Yes, sports facilities are available for students interested in physical activities."
-  },
-  {
-    "question": "Are cultural events conducted?",
-    "answer": "Yes, cultural events and student activities are conducted regularly."
-  },
-  {
-    "question": "How can I register for events?",
-    "answer": "Students can register for events through the student portal or event coordinators."
-  },
-  {
-    "question": "How can I update my student profile?",
-    "answer": "Students can update their profile information through the student portal."
-  },
-  {
-    "question": "I forgot my student portal password. What should I do?",
-    "answer": "Use the forgot password option or contact student support for assistance."
-  },
-  {
-    "question": "How can I get my ID card?",
-    "answer": "Student ID cards are issued after successful admission and verification."
-  },
-  {
-    "question": "How can I request certificates?",
-    "answer": "Students can request certificates through the administration office."
-  },
-  {
-    "question": "How can I contact student support?",
-    "answer": "You can contact student support through official email or helpdesk."
-  }
-]
+[{
+  "question": "What courses do you offer?",
+  "keywords": ["course", "courses", "program", "programs", "degree", "btech", "b.tech", "mba", "mca", "study"],
+  "answer": "We offer undergraduate, postgraduate, diploma, and certificate courses across multiple disciplines."
+},
+{
+  "question": "How can I apply for admission?",
+  "keywords": ["admission", "apply", "application", "register", "registration", "join", "enroll", "enrollment"],
+  "answer": "You can apply online through our admission portal by filling out the application form and uploading the required documents."
+},
+{
+  "question": "What are the eligibility criteria?",
+  "keywords": ["eligibility", "eligible", "criteria", "qualification", "qualifications", "requirements"],
+  "answer": "Eligibility depends on the selected course. Please check the course page for detailed requirements."
+},
+{
+  "question": "What documents are required for admission?",
+  "keywords": ["documents", "certificate", "marksheet", "aadhaar", "id proof", "admission documents", "upload documents"],
+  "answer": "You need academic certificates, identity proof, passport-size photographs, and other documents specified during admission."
+},
+{
+  "question": "When does the admission process start?",
+  "keywords": ["admission date", "admission start", "application start", "admission schedule", "apply date"],
+  "answer": "Admission dates are announced on the official website before the academic session begins."
+},
+{
+  "question": "What is the fee structure?",
+  "keywords": ["fee", "fees", "fee structure", "payment", "cost", "price", "tuition", "semester fee"],
+  "answer": "The fee structure varies depending on the selected course. Please visit the fees section for detailed information."
+},
+{
+  "question": "Can I pay fees in installments?",
+  "keywords": ["installment", "emi", "fees installment", "pay later", "partial payment"],
+  "answer": "Yes, installment options are available for selected programs as per institutional policy."
+},
+{
+  "question": "What payment methods are accepted?",
+  "keywords": ["payment", "upi", "credit card", "debit card", "net banking", "cash", "online payment"],
+  "answer": "We accept UPI, debit cards, credit cards, net banking, and other approved online payment methods."
+},
+{
+  "question": "Do you provide scholarships?",
+  "keywords": ["scholarship", "scholarships", "financial aid", "grant", "education support"],
+  "answer": "Yes, scholarships are available for eligible students based on academic performance and other criteria."
+},
+{
+  "question": "How do I apply for a scholarship?",
+  "keywords": ["apply scholarship", "scholarship application", "financial aid apply", "grant apply"],
+  "answer": "You can apply for scholarships through the scholarship portal by submitting the required documents."
+},
+{
+  "question": "Are online classes available?",
+  "keywords": ["online class", "online classes", "virtual class", "zoom", "google meet", "remote learning"],
+  "answer": "Yes, online classes are available for selected programs."
+},
+{
+  "question": "What are the class timings?",
+  "keywords": ["class timing", "timetable", "schedule", "lecture timing", "period"],
+  "answer": "Class timings depend on your course and semester. The timetable is available in the student portal."
+},
+{
+  "question": "Is attendance compulsory?",
+  "keywords": ["attendance", "minimum attendance", "attendance percentage", "presence"],
+  "answer": "Yes, students must maintain the minimum attendance required by academic regulations."
+},
+{
+  "question": "How can I check my attendance?",
+  "keywords": ["attendance check", "attendance status", "attendance portal", "present", "absent"],
+  "answer": "Attendance can be viewed through the student portal."
+},
+{
+  "question": "Where can I download study materials?",
+  "keywords": ["study material", "notes", "pdf", "ebooks", "learning material", "lecture notes"],
+  "answer": "Study materials are available in the Learning Management System (LMS) and student portal."
+},
+{
+  "question": "Do you provide recorded lectures?",
+  "keywords": ["recorded lecture", "recording", "class recording", "video lecture"],
+  "answer": "Yes, recorded lectures are available for selected courses."
+},
+{
+  "question": "How do I access the student portal?",
+  "keywords": ["student portal", "portal login", "dashboard", "login", "account"],
+  "answer": "You can access the student portal using your registered email and password."
+},
+{
+  "question": "I forgot my student portal password.",
+  "keywords": ["forgot password", "reset password", "password", "login problem", "portal password"],
+  "answer": "Click the 'Forgot Password' option on the login page and follow the instructions."
+},
+{
+  "question": "How can I contact faculty members?",
+  "keywords": ["faculty", "teacher", "professor", "mentor", "staff", "contact faculty"],
+  "answer": "Faculty members can be contacted through their official email addresses or during office hours."
+},
+{
+  "question": "When are exams conducted?",
+  "keywords": ["exam", "exams", "semester exam", "test", "assessment", "final exam"],
+  "answer": "Examinations are conducted according to the academic calendar."
+},
+{
+  "question": "How do I download my hall ticket?",
+  "keywords": ["hall ticket", "admit card", "exam admit", "exam ticket"],
+  "answer": "Hall tickets can be downloaded from the examination portal before the exam."
+},
+{
+  "question": "How can I check my exam results?",
+  "keywords": ["result", "results", "marks", "score", "grade", "exam result"],
+  "answer": "Results are published on the student portal after evaluation."
+},
+{
+  "question": "Can I apply for revaluation?",
+  "keywords": ["revaluation", "recheck", "recounting", "remarking", "paper correction"],
+  "answer": "Yes, students can apply for revaluation within the specified deadline."
+},
+{
+  "question": "How are marks calculated?",
+  "keywords": ["marks", "grading", "cgpa", "sgpa", "score calculation", "evaluation"],
+  "answer": "Marks are calculated using assignments, internal assessments, practicals, and final examinations."
+},
+{
+  "question": "Do you provide placement support?",
+  "keywords": ["placement", "placements", "job", "campus placement", "recruitment", "career"],
+  "answer": "Yes, we provide placement assistance, career guidance, resume preparation, and campus recruitment opportunities."
+},
+{
+  "question": "Do you provide internship opportunities?",
+  "keywords": ["internship", "internships", "training", "industrial training", "intern"],
+  "answer": "Yes, internship opportunities are provided through industry collaborations and partner organizations."
+},
+{
+  "question": "How can I apply for internships?",
+  "keywords": ["apply internship", "internship registration", "internship apply", "internship portal"],
+  "answer": "Students can apply for internships through the placement cell or internship portal."
+},
+{
+  "question": "Which companies visit for campus placements?",
+  "keywords": ["companies", "recruiters", "placement companies", "campus recruitment", "hiring companies"],
+  "answer": "Leading companies from various industries visit the campus based on placement schedules."
+},
+{
+  "question": "Do you provide career guidance?",
+  "keywords": ["career", "career guidance", "career counseling", "future", "guidance"],
+  "answer": "Yes, career counseling sessions are conducted regularly to help students choose suitable career paths."
+},
+{
+  "question": "Do you conduct mock interviews?",
+  "keywords": ["mock interview", "interview", "placement interview", "practice interview"],
+  "answer": "Yes, mock interviews and aptitude training sessions are conducted before placement drives."
+},
+{
+  "question": "Is hostel accommodation available?",
+  "keywords": ["hostel", "accommodation", "stay", "hostel room", "room"],
+  "answer": "Yes, separate hostel facilities are available for eligible students."
+},
+{
+  "question": "How can I apply for hostel accommodation?",
+  "keywords": ["hostel apply", "hostel admission", "hostel registration", "hostel booking"],
+  "answer": "Students can apply for hostel accommodation through the hostel administration office."
+},
+{
+  "question": "What facilities are available in the hostel?",
+  "keywords": ["hostel facilities", "mess", "wifi hostel", "laundry", "hostel services"],
+  "answer": "Hostels provide Wi-Fi, mess facilities, security, study rooms, and recreational areas."
+},
+{
+  "question": "What are the hostel fees?",
+  "keywords": ["hostel fee", "hostel charges", "hostel payment", "hostel cost"],
+  "answer": "Hostel fees vary depending on the room type and facilities provided."
+},
+{
+  "question": "Is transportation available?",
+  "keywords": ["transport", "bus", "college bus", "transportation", "travel"],
+  "answer": "Yes, transportation services are available on selected routes."
+},
+{
+  "question": "How can I apply for bus transportation?",
+  "keywords": ["bus pass", "transport registration", "bus apply", "transport apply"],
+  "answer": "Students can register for transportation through the transport office."
+},
+{
+  "question": "What bus routes are available?",
+  "keywords": ["bus route", "transport route", "pickup", "drop", "bus locations"],
+  "answer": "Bus routes are published before every semester and cover multiple locations."
+},
+{
+  "question": "Does the campus have a library?",
+  "keywords": ["library", "books", "reading room", "digital library"],
+  "answer": "Yes, the campus has a fully equipped library with physical and digital resources."
+},
+{
+  "question": "How can I borrow books?",
+  "keywords": ["borrow books", "issue book", "library card", "book issue"],
+  "answer": "Students can borrow books using their student ID card."
+},
+{
+  "question": "Can I access digital library resources?",
+  "keywords": ["digital library", "ebooks", "online books", "journal", "research papers"],
+  "answer": "Yes, students have access to digital books, journals, and research databases."
+},
+{
+  "question": "Are computer labs available?",
+  "keywords": ["computer lab", "lab", "computers", "programming lab"],
+  "answer": "Yes, modern computer laboratories are available for academic and practical sessions."
+},
+{
+  "question": "What software is available in the labs?",
+  "keywords": ["software", "lab software", "coding software", "applications"],
+  "answer": "Labs include programming software, development tools, simulation software, and office applications."
+},
+{
+  "question": "Is free Wi-Fi available on campus?",
+  "keywords": ["wifi", "internet", "wireless", "campus wifi", "network"],
+  "answer": "Yes, Wi-Fi connectivity is available across the campus for students."
+},
+{
+  "question": "Are sports facilities available?",
+  "keywords": ["sports", "games", "playground", "cricket", "football", "gym"],
+  "answer": "Yes, students have access to indoor and outdoor sports facilities."
+},
+{
+  "question": "Are cultural events conducted?",
+  "keywords": ["cultural", "events", "fest", "college fest", "celebration"],
+  "answer": "Yes, cultural events, annual fests, and competitions are organized every year."
+},
+{
+  "question": "How can I register for events?",
+  "keywords": ["event registration", "register event", "event apply", "club event"],
+  "answer": "Students can register through the student portal or event coordinator."
+},
+{
+  "question": "Are student clubs available?",
+  "keywords": ["club", "student club", "coding club", "robotics", "music club"],
+  "answer": "Yes, students can join various academic, technical, sports, and cultural clubs."
+},
+{
+  "question": "How can I update my student profile?",
+  "keywords": ["update profile", "student profile", "profile edit", "account update"],
+  "answer": "You can update your profile details through the student portal."
+},
+{
+  "question": "How can I request official certificates?",
+  "keywords": ["certificate", "bonafide", "transfer certificate", "tc", "migration certificate"],
+  "answer": "Certificate requests can be submitted online or through the administration office."
+},
+{
+  "question": "How can I get my student ID card?",
+  "keywords": ["id card", "student id", "identity card", "college id"],
+  "answer": "Student ID cards are issued after admission verification and enrollment."
+},
+{
+  "question": "How can I contact student support?",
+  "keywords": ["student support", "help", "support", "contact", "helpdesk", "assistance"],
+  "answer": "You can contact student support through the helpdesk, email, or by visiting the student services office."
+},
+{
+  "question": "What are the office working hours?",
+  "keywords": ["office", "working hours", "timing", "office timing", "working time"],
+  "answer": "The administrative office is open from Monday to Friday, 9:00 AM to 5:00 PM."
+},
+{
+  "question": "How can I contact the admission office?",
+  "keywords": ["admission office", "admission contact", "admission help", "contact admission"],
+  "answer": "You can contact the admission office through the official phone number, email, or by visiting the campus."
+},
+{
+  "question": "Can I change my registered email address?",
+  "keywords": ["change email", "update email", "registered email", "email change"],
+  "answer": "Yes, you can update your registered email through the student portal or administration office."
+},
+{
+  "question": "Can I change my registered mobile number?",
+  "keywords": ["change mobile", "update phone", "mobile number", "phone number"],
+  "answer": "You can request a mobile number update through the student portal after verification."
+},
+{
+  "question": "How do I apply for leave?",
+  "keywords": ["leave", "leave application", "medical leave", "absence", "leave request"],
+  "answer": "Students can submit leave applications through the department office or the student portal."
+},
+{
+  "question": "What should I do if I miss a class?",
+  "keywords": ["miss class", "absent", "class missed", "attendance issue"],
+  "answer": "You should inform your faculty member and review the missed class materials available on the portal."
+},
+{
+  "question": "Can I repeat a failed subject?",
+  "keywords": ["backlog", "failed subject", "repeat subject", "supplementary"],
+  "answer": "Yes, students can reappear for failed subjects according to the academic regulations."
+},
+{
+  "question": "What is the grading system?",
+  "keywords": ["grading", "grade", "cgpa", "sgpa", "gpa", "marks"],
+  "answer": "The institution follows a credit-based grading system where grades are assigned based on performance."
+},
+{
+  "question": "How is CGPA calculated?",
+  "keywords": ["cgpa", "gpa", "grade point", "cgpa calculation"],
+  "answer": "CGPA is calculated based on the credit points earned in each semester."
+},
+{
+  "question": "Can I improve my grades?",
+  "keywords": ["improve grades", "grade improvement", "better marks", "improvement exam"],
+  "answer": "Students may apply for improvement examinations if permitted by academic regulations."
+},
+{
+  "question": "How can I choose elective subjects?",
+  "keywords": ["elective", "optional subject", "choose subject", "elective course"],
+  "answer": "Elective subjects can be selected during course registration through the student portal."
+},
+{
+  "question": "Do you provide project guidance?",
+  "keywords": ["project", "final year project", "project guide", "mentor"],
+  "answer": "Yes, faculty members provide guidance for academic and final-year projects."
+},
+{
+  "question": "Can I work on industry projects?",
+  "keywords": ["industry project", "live project", "real project", "company project"],
+  "answer": "Yes, students may participate in industry-sponsored projects depending on availability."
+},
+{
+  "question": "Are research opportunities available?",
+  "keywords": ["research", "research project", "innovation", "publication"],
+  "answer": "Students interested in research can participate in faculty-led research projects."
+},
+{
+  "question": "Can I publish research papers?",
+  "keywords": ["research paper", "publication", "journal", "conference"],
+  "answer": "Yes, students are encouraged to publish research papers with faculty guidance."
+},
+{
+  "question": "Do you conduct workshops?",
+  "keywords": ["workshop", "training", "seminar", "technical workshop"],
+  "answer": "Yes, workshops and technical training sessions are conducted throughout the academic year."
+},
+{
+  "question": "Do you organize seminars?",
+  "keywords": ["seminar", "guest lecture", "conference", "expert session"],
+  "answer": "Regular seminars and guest lectures are organized by industry experts and faculty."
+},
+{
+  "question": "Are certification courses available?",
+  "keywords": ["certification", "certificate course", "online certification", "skill course"],
+  "answer": "Yes, students can enroll in certification programs to enhance their skills."
+},
+{
+  "question": "Do you offer coding courses?",
+  "keywords": ["coding", "programming", "java", "python", "c++", "web development"],
+  "answer": "Yes, coding and programming courses are available for students across multiple domains."
+},
+{
+  "question": "Can I access learning resources online?",
+  "keywords": ["learning resources", "online resources", "ebooks", "videos", "study"],
+  "answer": "Students can access learning materials, recorded lectures, and notes through the learning portal."
+},
+{
+  "question": "Is there an anti-ragging policy?",
+  "keywords": ["ragging", "anti ragging", "harassment", "complaint"],
+  "answer": "Yes, the institution follows a strict anti-ragging policy to ensure student safety."
+},
+{
+  "question": "How can I file a complaint?",
+  "keywords": ["complaint", "grievance", "issue", "report problem"],
+  "answer": "Complaints can be submitted through the grievance cell or online complaint portal."
+},
+{
+  "question": "Do you provide counseling services?",
+  "keywords": ["counseling", "mental health", "student counselor", "guidance"],
+  "answer": "Yes, professional counseling services are available for students who require support."
+},
+{
+  "question": "How can I join the alumni network?",
+  "keywords": ["alumni", "graduates", "former students", "alumni association"],
+  "answer": "Graduates can register through the alumni portal to stay connected with the institution."
+},
+{
+  "question": "When is the convocation ceremony conducted?",
+  "keywords": ["convocation", "graduation ceremony", "degree ceremony", "convocation date"],
+  "answer": "The convocation ceremony is conducted after the successful completion of the program. Dates are announced on the official website."
+},
+{
+  "question": "How can I apply for my degree certificate?",
+  "keywords": ["degree certificate", "degree", "graduation certificate", "apply degree"],
+  "answer": "You can apply for your degree certificate through the examination branch after completing all academic requirements."
+},
+{
+  "question": "How can I get my transcript?",
+  "keywords": ["transcript", "academic transcript", "marks transcript", "official transcript"],
+  "answer": "Official transcripts can be requested from the examination or academic office."
+},
+{
+  "question": "How do I apply for a migration certificate?",
+  "keywords": ["migration certificate", "migration", "transfer university"],
+  "answer": "Students can apply for a migration certificate through the administration office after completing the required formalities."
+},
+{
+  "question": "How do I obtain a bonafide certificate?",
+  "keywords": ["bonafide", "bonafide certificate", "student certificate"],
+  "answer": "Bonafide certificates can be requested through the student portal or administration office."
+},
+{
+  "question": "Can I get a duplicate ID card?",
+  "keywords": ["duplicate id", "lost id", "student id", "replacement id"],
+  "answer": "Yes, duplicate ID cards can be issued after submitting a request and paying the applicable fee."
+},
+{
+  "question": "What are the campus rules?",
+  "keywords": ["rules", "campus rules", "college rules", "regulations"],
+  "answer": "Students are expected to follow the institution's code of conduct, attendance policy, and disciplinary guidelines."
+},
+{
+  "question": "Is there a dress code?",
+  "keywords": ["dress code", "uniform", "clothing", "college uniform"],
+  "answer": "Students should follow the dress code prescribed by the institution."
+},
+{
+  "question": "How can I check the academic calendar?",
+  "keywords": ["academic calendar", "calendar", "semester calendar", "important dates"],
+  "answer": "The academic calendar is available on the official website and student portal."
+},
+{
+  "question": "When are semester holidays?",
+  "keywords": ["holiday", "vacation", "semester break", "holidays"],
+  "answer": "Holiday schedules are published in the academic calendar before the beginning of each semester."
+},
+{
+  "question": "Are medical facilities available on campus?",
+  "keywords": ["medical", "health", "clinic", "doctor", "first aid"],
+  "answer": "Yes, basic medical facilities and first-aid services are available on campus."
+},
+{
+  "question": "Is emergency assistance available on campus?",
+  "keywords": ["emergency", "security", "help", "urgent", "emergency contact"],
+  "answer": "Yes, emergency assistance and campus security services are available throughout campus."
+},
+{
+  "question": "Is campus Wi-Fi available for all students?",
+  "keywords": ["wifi", "internet", "wireless", "network", "wifi login"],
+  "answer": "Campus Wi-Fi is available for all registered students using their institutional login credentials."
+},
+{
+  "question": "How do I connect to campus Wi-Fi?",
+  "keywords": ["wifi login", "wifi password", "internet login", "network login"],
+  "answer": "Use your student portal credentials to log in to the campus Wi-Fi network."
+},
+{
+  "question": "What are the laboratory rules?",
+  "keywords": ["lab rules", "laboratory", "computer lab", "science lab"],
+  "answer": "Students must follow safety guidelines, handle equipment carefully, and follow faculty instructions inside laboratories."
+},
+{
+  "question": "Do you provide exchange programs?",
+  "keywords": ["exchange program", "student exchange", "international program", "abroad"],
+  "answer": "Selected exchange programs are available through collaborations with partner institutions."
+},
+{
+  "question": "Can international students apply?",
+  "keywords": ["international student", "foreign student", "overseas admission"],
+  "answer": "Yes, international students are welcome to apply subject to eligibility and visa requirements."
+},
+{
+  "question": "Do you provide campus security?",
+  "keywords": ["security", "campus security", "safety", "guards"],
+  "answer": "Yes, trained security personnel monitor the campus to ensure student safety."
+},
+{
+  "question": "Is there a lost and found department?",
+  "keywords": ["lost", "found", "lost items", "missing", "wallet", "mobile"],
+  "answer": "Yes, lost items can be reported to the administration or security office."
+},
+{
+  "question": "How can I submit feedback?",
+  "keywords": ["feedback", "suggestion", "review", "student feedback"],
+  "answer": "Students can submit feedback through the student portal or official feedback forms."
+},
+{
+  "question": "Can I update my personal information?",
+  "keywords": ["update profile", "edit profile", "change address", "personal details"],
+  "answer": "Yes, personal information can be updated through the student portal after verification."
+},
+{
+  "question": "Do you provide AI or smart learning resources?",
+  "keywords": ["ai", "artificial intelligence", "smart learning", "learning platform"],
+  "answer": "Yes, students have access to AI-enabled learning resources and digital platforms where applicable."
+},
+{
+  "question": "Can I access recorded classes after the semester?",
+  "keywords": ["recorded classes", "lecture recording", "videos", "recordings"],
+  "answer": "Recorded lectures remain available for a limited period after the semester ends."
+},
+{
+  "question": "Where can I find the latest announcements?",
+  "keywords": ["announcement", "notice", "notification", "updates"],
+  "answer": "Latest announcements are available on the student portal and official website."
+},
+{
+  "question": "How can I contact the college?",
+  "keywords": ["contact", "phone", "email", "office", "support", "helpdesk"],
+  "answer": "You can contact the institution through the official phone number, email, or by visiting the administrative office during working hours."
+}]
